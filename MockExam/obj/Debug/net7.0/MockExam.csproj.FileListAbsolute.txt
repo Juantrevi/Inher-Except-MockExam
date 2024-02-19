@@ -1,0 +1,14 @@
+C:\Users\juant\OneDrive\Escritorio\Dorset\7 - OOP\MockExam\MockExam\obj\Debug\net7.0\MockExam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juant\OneDrive\Escritorio\Dorset\7 - OOP\MockExam\MockExam\obj\Debug\net7.0\MockExam.AssemblyInfoInputs.cache
+C:\Users\juant\OneDrive\Escritorio\Dorset\7 - OOP\MockExam\MockExam\obj\Debug\net7.0\MockExam.AssemblyInfo.cs
+C:\Users\juant\OneDrive\Escritorio\Dorset\7 - OOP\MockExam\MockExam\obj\Debug\net7.0\MockExam.csproj.CoreCompileInputs.cache
+C:\Users\juant\OneDrive\Escritorio\Dorset\7 - OOP\MockExam\MockExam\bin\Debug\net7.0\MockExam.exe
+C:\Users\juant\OneDrive\Escritorio\Dorset\7 - OOP\MockExam\MockExam\bin\Debug\net7.0\MockExam.deps.json
+C:\Users\juant\OneDrive\Escritorio\Dorset\7 - OOP\MockExam\MockExam\bin\Debug\net7.0\MockExam.runtimeconfig.json
+C:\Users\juant\OneDrive\Escritorio\Dorset\7 - OOP\MockExam\MockExam\bin\Debug\net7.0\MockExam.dll
+C:\Users\juant\OneDrive\Escritorio\Dorset\7 - OOP\MockExam\MockExam\bin\Debug\net7.0\MockExam.pdb
+C:\Users\juant\OneDrive\Escritorio\Dorset\7 - OOP\MockExam\MockExam\obj\Debug\net7.0\MockExam.dll
+C:\Users\juant\OneDrive\Escritorio\Dorset\7 - OOP\MockExam\MockExam\obj\Debug\net7.0\refint\MockExam.dll
+C:\Users\juant\OneDrive\Escritorio\Dorset\7 - OOP\MockExam\MockExam\obj\Debug\net7.0\MockExam.pdb
+C:\Users\juant\OneDrive\Escritorio\Dorset\7 - OOP\MockExam\MockExam\obj\Debug\net7.0\MockExam.genruntimeconfig.cache
+C:\Users\juant\OneDrive\Escritorio\Dorset\7 - OOP\MockExam\MockExam\obj\Debug\net7.0\ref\MockExam.dll
